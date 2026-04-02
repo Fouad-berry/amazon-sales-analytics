@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+
+data/amazon_analytics.db
+data/processed/
+data/mart/
+
+# Logs et figures générés
+logs/
+analysis/figures/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
