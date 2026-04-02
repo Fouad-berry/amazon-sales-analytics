@@ -322,9 +322,10 @@ Générés automatiquement par `analysis/eda.py` après exécution du pipeline :
 
 ## Auteur
 
-Projet réalisé dans le cadre d'un portfolio **Analytics Engineer / Data Analyst**.  
-Stack : Python · Pandas · SQLite · Power BI · pytest
+Projet réalisé par **Fouad MOUTAIRTOU**
+
+Stack Utilisé : Python · Pandas · SQLite · Power BI · pytest
 
 ---
-
+**Dataset :** 
 *50 000 commandes · 6 catégories · 4 régions · 2 années (2022–2023)*
