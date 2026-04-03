@@ -327,5 +327,5 @@ Projet réalisé par **Fouad MOUTAIRTOU**
 Stack Utilisé : Python · Pandas · SQLite · Power BI · pytest
 
 ---
-**Dataset :** 
+**Dataset utilisé:** 
 *50 000 commandes · 6 catégories · 4 régions · 2 années (2022–2023)*
